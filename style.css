@@ -1,0 +1,22 @@
+.weather-container {
+    background: #ccc;
+    text-align: center;
+    border: 1px solid orangered;
+}
+
+.city {
+    font-size: 50px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.weather {
+    font-size: 25px;
+    margin: 0;
+}
+
+.temp {
+    font-size: 70px;
+    margin: 0;
+    font-weight: bold;
+}
